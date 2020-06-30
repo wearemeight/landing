@@ -1,0 +1,58 @@
+# Project information
+site_name: ''
+site_description: 'We’re learning from data to help drivers spend less and use less, so every journey has a positive impact on the world.'
+site_author: Meight
+site_url: 'https://privacy.meight.com/pt/'
+edit_uri: ''
+# Repository
+repo_name: wearemeight
+repo_url: https://github.com/wearemeight
+
+# Copyright
+copyright: Copyright &copy; 2020 - 2020
+
+# Configuration
+theme:
+  name: material
+  logo: 'BLUE_M8.svg'
+  language: pt
+  palette:
+    primary: white
+    accent: white
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - _: index.md
+  - Languages:
+      - Português: /pt/
+      - English: /
+  - Quem somos: who_we_are.md
+  - Ética no Uso de dados: data_ethics.md
+  - Proteção de dados: data_protection.md
+  - Os seus direitos: your_rights.md
+
+
+# Extras
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/wearemeight
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/wearemeight
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/wearemeight
+
+# Google Analytics
+#google_analytics:
+#  - UA-XXXXXXXX-X
+#  - auto
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
