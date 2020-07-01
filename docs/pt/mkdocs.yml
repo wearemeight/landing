@@ -25,7 +25,7 @@ theme:
 
 nav:
   - Quem somos: index.md
-  - Languages:
+  - Idiomas:
       - Português: /pt/
       - English: /
   - Ética no Uso de dados: data_ethics.md
