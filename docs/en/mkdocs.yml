@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2020 - Meight 2020
 # Configuration
 theme:
   name: material
-  logo: 'BLUE_M8.svg'
+  logo: images/BLUE_M8.svg
   language: en
   palette:
     primary: white
@@ -22,11 +22,12 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  favicon: images/favicon.png
 
 nav:
   - Who we are: index.md
 #  - Languages:
-#      - Português: /pt/
+##      - Português: /pt/
 #      - English: /
   - Data Ethics: data_ethics.md
   - Data Protection: data_protection.md
@@ -40,7 +41,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/wearemeight
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/wearemeight
+      link: https://linkedin.com/company/wearemeight
 
 
 # Google Analytics
