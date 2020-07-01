@@ -2,7 +2,7 @@ Meight reserves the right to resort to third party contractors to provide full o
 
 Meight might also use personal data to comply with legal obligations or requests from authorities (i.e., courts, police, regulatory authorities), or to, in Meight’s legitimate interest, to further claims or complaints concerning its rights or to protect Clients. Personal data of Clients will only be made available when Meight is bound to do so by law and after an exhaustive analysis of legal requirements.
 
-To oppose data treatment, send us an email to gdpr@meight.io.
+To oppose data treatment, send us an email to gdpr@meight.com.
 
 
 ## How we protect your information 
@@ -10,3 +10,11 @@ To oppose data treatment, send us an email to gdpr@meight.io.
 Meight has implemented adequate technical and organisational safety measures, as required by law and industry standards to protect personal data against unauthorised access, use and transmission, as well as the measures necessary to ensure that we only use said data in accordance with this agreement.
 
 We only establish partnerships with service providers that guarantee in those services the same level of data safety that you expect from Meight.
+
+## Your Rights
+
+Under applicable legislation, the Client has the right to access all data that is directly about his activity or employees, being also allowed to request portability, correction, addition, removal or limitation in the context of treatment. For this purpose, you may contact Meight by sending an email to gdpr@meight.com.
+
+The Client also has the right to be notified if a breach of this agreement occurs. If the Clients requires further information about his rights, send an email to gdpr@meight.com.
+
+Meight employs professionals dedicated to helping you. If you are unsatisfied you can also contact CNPD - Comissão Nacional de Proteção de Dados (see www.cndp.pt).

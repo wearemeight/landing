@@ -1,12 +1,24 @@
-Meight reserves the right to resort to third party contractors to provide full or partial treatment of the personal data collected under the contract, as allowed for by Law. These entities will be bound by the same rules as those determined in this agreement, and will keep secrecy and ensure safety of the data that they might have access to, being obligated not to use that data in any way or for any other means, nor connecting that data with any other data that they have. In the case Meight were to send data to a country that is not part of the European Union, enforcement of all locally applicable legal rules will be ensured and also that those transfers will occur under model provisions approved by the European Commission for this purpose, in the case the destination state does not possess legislation deemed equivalent to the European one in the matters of personal data.
+## Com quem partilhamos a informação
+A Meight reserva-se ao direito de recorrer a subcontratantes para efeitos de tratamento total ou parcial dos dados pessoais recolhidos e gerados ao abrigo deste contrato nos termos permitidos pela lei. Estas entidades, ficam obrigadas nos termos dos contratos celebrados, a guardar sigilo e a garantir a segurança relativamente aos dados dos Clientes a que, para o efeito, tenham acesso, comprometendo-se a não utilizar esses dados para quaisquer outros fins, nem os relacionar com outros dados que possuam. Se a Meight enviar as informações respeitantes ao Cliente e aos utilizadores dos serviços para um país que não se encontre no Espaço Económico Europeu, será assegurado o cumprimento de todas as medidas de segurança necessárias, bem como que estas transferências decorrem ao abrigo de cláusulas contratuais-tipo aprovadas pela Comissão Europeia para esta finalidade, se o país para o qual os dados possam ser transferidos não possuir legislação equivalente aos padrões da União Europeia em matéria de proteção de dados.
 
-Meight might also use personal data to comply with legal obligations or requests from authorities (i.e., courts, police, regulatory authorities), or to, in Meight’s legitimate interest, to further claims or complaints concerning its rights or to protect Clients. Personal data of Clients will only be made available when Meight is bound to do so by law and after an exhaustive analysis of legal requirements.
+A Meight também poderá ter de divulgar dados pessoais dos Clientes no cumprimento da obrigação legal de resposta aos pedidos das autoridades competentes (por exemplo: tribunais, órgãos de polícia criminal e entidades reguladoras), ou para, no interesse legítimo da Meight, apresentar ações ou queixas em defesa dos seus direitos ou para proteger os seus Clientes. Os dados pessoais dos Clientes só serão disponibilizados quando a Meight estiver obrigada a fazê-lo segundo a lei e após uma avaliação exaustiva de todos os requisitos legais.
 
-To oppose data treatment, send us an email to gdpr@meight.io.
+Para oposição a outros tratamentos de dados realizados com base no interesse legítimo da Meight: Envie-nos um e-mail para gdpr@meight.com.
 
 
-## How we protect your information 
+## Como protegemos a sua informação 
 
-Meight has implemented adequate technical and organisational safety measures, as required by law and industry standards to protect personal data against unauthorised access, use and transmission, as well as the measures necessary to ensure that we only use said data in accordance with this agreement.
+A Meight implementou medidas de segurança técnicas e organizacionais adequadas, conforme exigido por lei e pelos standards da indústria para proteger dados pessoais contra o acesso, uso e divulgação não autorizado, bem como as ações necessárias para assegurar que apenas utilizamos esses dados conforme anteriormente descrito.
 
-We only establish partnerships with service providers that guarantee in those services the same level of data safety that you expect from Meight.
+Apenas estabelecemos parcerias com prestadores de serviços que garantam nesses serviços o mesmo nível de segurança da informação que espera da Meight.
+
+
+## Os seus direitos 
+
+Nos termos da legislação aplicável, é garantido ao Cliente, o direito de acesso aos dados que lhe digam diretamente respeito, podendo também solicitar a portabilidade dos mesmos, a sua correcção, aditamento, eliminação ou a limitação do seu tratamento. Para o efeito, pode contactar a Meight na sua sede social ou enviar um e-mail para gdpr@meight.com.
+
+O Cliente tem ainda o direito de ser notificado quando ocorra uma violação dos dados pessoais.
+
+Caso o Cliente pretenda contactar a Meight para ser informado sobre os seus direitos ou apresentar uma reclamação sobre dados pessoais, deve enviar um e-mail para gdpr@meight.com.
+
+A Meight tem profissionais dedicados prontos a ajudá-lo. Caso continue insatisfeito poderá contactar a CNPD - Comissão Nacional de Proteção de Dados cujos detalhes de contacto podem ser consultados em www.cndp.pt.
