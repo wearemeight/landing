@@ -1,5 +1,5 @@
 # Project information
-site_name: ''
+site_name: 'MEIGHT'
 site_description: 'We’re learning from data to help drivers spend less and use less, so every journey has a positive impact on the world.'
 site_author: Meight
 site_url: 'https://about.meight.com'
@@ -24,11 +24,10 @@ theme:
     code: Roboto Mono
 
 nav:
-  - .: index.md
+  - Who we are: index.md
   - Languages:
       - Português: /pt/
       - English: /
-  - Who we are: who_we_are.md
   - Data Ethics: data_ethics.md
   - Data Protection: data_protection.md
 
