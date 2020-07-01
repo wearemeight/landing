@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.meight.com"><img src="https://meight-landing-page.s3.eu-central-1.amazonaws.com/BLUE_MEIGHT.png"></a>
+  <a href="https://www.meight.com"><img src="https://meight-landing-page.s3.eu-central-1.amazonaws.com/BLUE_MEIGHT_CLAIM.png"></a>
 </p>
 
 
