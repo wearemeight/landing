@@ -25,9 +25,9 @@ theme:
 
 nav:
   - Who we are: index.md
-  - Languages:
-      - Português: /pt/
-      - English: /
+#  - Languages:
+#      - Português: /pt/
+#      - English: /
   - Data Ethics: data_ethics.md
   - Data Protection: data_protection.md
 
