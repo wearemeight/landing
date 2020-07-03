@@ -2,7 +2,7 @@
 site_name: 'Meight'
 site_description: 'We’re learning from data to help drivers spend less and use less, so every journey has a positive impact on the world.'
 site_author: Meight
-site_url: 'https://about.meight.com'
+site_url: 'https://www.meight.com'
 edit_uri: ''
 # Repository
 repo_name: wearemeight
@@ -31,6 +31,7 @@ nav:
 #      - English: /
   - Data Ethics: data_ethics.md
   - Data Protection: data_protection.md
+  - Terms of Service: terms_of_service.md
 
 
 # Extras
