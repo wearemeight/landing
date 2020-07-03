@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://about.meight.com/</loc>
-     <lastmod>2020-07-01</lastmod>
+     <loc>https://www.meight.com/</loc>
+     <lastmod>2020-07-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://about.meight.com/data_ethics/</loc>
-     <lastmod>2020-07-01</lastmod>
+     <loc>https://www.meight.com/data_ethics/</loc>
+     <lastmod>2020-07-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://about.meight.com/data_protection/</loc>
-     <lastmod>2020-07-01</lastmod>
+     <loc>https://www.meight.com/data_protection/</loc>
+     <lastmod>2020-07-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.meight.com/terms_of_service/</loc>
+     <lastmod>2020-07-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
