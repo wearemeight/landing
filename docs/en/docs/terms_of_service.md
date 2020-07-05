@@ -61,13 +61,15 @@ By installing, copying, or otherwise using this Software, Licensee agrees to be 
     Licensee further acknowledge and agree that between Licensee and Licensor, all right, title, and interest in and regarding the Software, including associated Intellectual Property Rights, are and shall remain with Licensor, its affiliates, subsidiaries and/or their respective suppliers, licensors and assigns.
     
     If Licensee contact Licensor for any reason or provide feedback verbally, in writing or by supplying data (e.g., questions, comments, suggestions, diagrams, feature requests, design requirements or the like) regarding the Software (collectively, “Information”), such Information shall be deemed to be the property of Licensor, and Licensor shall have all rights, title and interest in the Information. 
-
+    
 1. **Payment**
     
     In consideration for the rights granted to Licensee, Licensee shall pay to Licensor a fee in accordance with the terms established in the services agreement in force between Licensor and Licensee at the time of use of the Software.
+    
 1. **Account security**
     
     Licensee is responsible for maintaining the confidentiality of all passwords for all accounts used to access the Software. Licensee acknowledges and agrees their sole responsibility to the Licensor for all activities that occur under all such accounts. Licensor must be notified by email immediately upon the Licensee becoming aware of any unauthorized use of any of the passwords or accounts.
+    
 1. **Termination** 
     
     The Agreement is effective upon Licensee's download of or access to the Software, and the Agreement will remain in effect until termination or expiry. Licensee may terminate the Agreement on written notice to Licensor if Licensor is in breach of the services agreement in force between Licensor and Licensee at the time of use of the Software or of this License Agreement and fails to cure the breach within 15 (fifteen) working days of receiving notice of such breach. If Licensee breaches the services agreement in force between Licensor and Licensee at the time of use of the Software or this License Agreement, Licensor may terminate the License immediately by notice to Licensee. 
