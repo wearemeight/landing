@@ -45,4 +45,4 @@ Account and billing are kept during contract execution and, after termination, m
 
 ## Who provides the service
 
-Fuelsave Consultoria, S.A.
+Meight Technologies, S.A.
