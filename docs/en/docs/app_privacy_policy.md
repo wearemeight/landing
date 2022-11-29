@@ -61,9 +61,6 @@ We are committed to protecting your information. Even though we take reasonable 
 ### Children’s Privacy
 Our Service is not directed to minors under the age of 18. You must be at least 18 years old to use our Service.
 
-### International Users
-Our Service is hosted in the United States. If you choose to use our Service from Mexico, Canada, or other regions of the world with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal information outside of those regions to the United States for storage and processing. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating our Service. By providing any information, including personal information, on or to our Service, you consent to such transfer, storage, and processing.
-
 ### Changes to this Privacy Policy
 We will post any adjustments to the Privacy Policy on this page, and the revised version will be effective when it is posted. If we materially change the ways in which we use or share personal information previously collected from you through our Service, we will notify you through our Service or other communication.
 
